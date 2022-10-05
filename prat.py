@@ -20,3 +20,4 @@ ans= 1
 for i in a:
     ans = (ans*(i**(n+1)))%1000000007
 print(ans)             
+print(rin)
